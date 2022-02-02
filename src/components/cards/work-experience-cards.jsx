@@ -44,8 +44,8 @@ export default function WorkExperience() {
                 May, 2018 - August, 2018{" "}
               </div>
               <br></br>
-              Built a booking engine for the Diu tent city website using
-              technologies HTML, CSS, JavaScript, MySQL, PHP
+              Designed and implemented the UI of booking engine for the Diu Tent
+              City website using technologies HTML, CSS, JavaScript, MySQL, PHP
             </p>
           </div>
 

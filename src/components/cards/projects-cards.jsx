@@ -26,15 +26,19 @@ export default function Projects() {
           </div>
 
           <div className="middle-card">
-            <h3> Solo Projects </h3>
+            <h3> Projects </h3>
             <p>
-              <div className="span"> Portfolio Management Website <br></br>
-              April, 2021 - July, 2021 </div> <br></br>
-              Built a website to help users keep track of investments made in
-              Indian Stock markets and provide analytics using technologies
-              JavaScript, React, Firebase <br></br>
-              Created using material UI, a clean UI for users to manage and
-              store investments details and view analytics
+              <div className="span">
+                {" "}
+                Portfolio Management Website <br></br>
+                April, 2021 - July, 2021{" "}
+              </div>{" "}
+              <br></br>Website created using React JS, HTML, CSS, and Firebase
+              that enables users to keep track of their investments in the
+              Indian Equity Markets<br></br>
+              <br></br>A modern UI created using react JS and Material UI that
+              provides users with a smooth browsing experience and enables them
+              to view analytics regarding their portfolio’s performance
             </p>
           </div>
 

@@ -28,16 +28,23 @@ export default function Education() {
           <div className="middle-card">
             <h3> Education </h3>
             <p>
-              <div className="span">Master's, Software Engineering Systems </div>
+              <div className="span">
+                Master's, Software Engineering Systems{" "}
+              </div>
               <br></br>
               Northeastern University, College of Engineering, Boston, MA{" "}
               <br></br>
               Expected graduation- May, 2023 <br></br>
+              GPA- 3.408/4
               <br></br>
-              <div className="span">B.Tech, Computer Science and Engineering </div>
+              <br></br>
+              <div className="span">
+                B.Tech, Computer Science and Engineering{" "}
+              </div>
               <br></br>
               Indus University, Ahmedabad, Gujrat, India, <br></br>
-              August, 2016 - June, 2020
+              August, 2016 - June, 2020 <br></br>
+              GPA- 7.5/10
             </p>
           </div>
 

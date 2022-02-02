@@ -29,8 +29,12 @@ export default function About() {
             <h3> About </h3>
             <p>
               Hi! My Name is Rishabh Modi.<br></br>
-              I am currently pursuing my master's from Northeastern University, Boston in the field of Software engineering systems. <br></br>
-              My interest's include Full Stack Development.
+              <br></br>I am Aspiring Software Developer, currently pursuing my
+              master's from Northeastern University, Boston, in the field of
+              Software Engineering Systems. <br></br>
+              <br></br>I have had experience working with Natural Language
+              Processing and Web Development Technologies like HTML, CSS, JS
+              which is where my interest lies.
             </p>
           </div>
 

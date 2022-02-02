@@ -21,25 +21,16 @@ export default function Header() {
         <Link className="text-small" to="/About">
           About
         </Link>
-        <Link
-          className="text-small"
-          to="/WorkExperience"
-        >
+        <Link className="text-small" to="/WorkExperience">
           Work Experience
         </Link>
         <Link className="text-small" to="/SoloProjects">
-          Solo Projects
+          Projects
         </Link>
-        <Link
-          className="text-small"
-          to="/Education"
-        >
+        <Link className="text-small" to="/Education">
           Education
         </Link>
-        <Link
-          className="text-small"
-          to="/Skills"
-        >
+        <Link className="text-small" to="/Skills">
           Skills
         </Link>
       </div>
