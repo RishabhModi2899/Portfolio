@@ -1,0 +1,93 @@
+@import url(../../globalStyles.css);
+
+.headerWrapper {
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2%;
+  position: relative;
+  width: 100%;
+  opacity: 0.8;
+}
+
+.headerWrapper:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  opacity: 1;
+}
+
+.left {
+  flex: 0.25;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center {
+  flex: 0.5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.right {
+  flex: 0.25;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  display: flex;
+  flex: 0.25;
+  margin-top: 1%;
+  padding-right: 1%;
+  justify-content: end;
+  align-items: baseline;
+}
+
+.text {
+  display: flex;
+  flex: 0.75;
+  align-items: stretch;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bolder;
+  font-style: normal;
+  color: white;
+  font-size: 25px;
+  text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+  transition: 0.5s;
+}
+
+.text:hover {
+  text-decoration: underline;
+  opacity: 1;
+}
+
+.text-small {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 18px;
+  color: black;
+  margin: 2%;
+  text-shadow: 2px 5px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+  background: none;
+  border: none;
+  text-decoration: none;
+}
+
+.text-small:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  opacity: 1;
+}
+
+span {
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-block-start: 1%;
+  padding: 1%;
+}

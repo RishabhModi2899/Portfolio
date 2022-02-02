@@ -1,0 +1,17 @@
+@import url("../../globalStyles.css");
+
+html,
+body,
+#root,
+.App {
+  margin: 0;
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  content: "";
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
