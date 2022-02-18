@@ -28,13 +28,12 @@ export default function Skills() {
           <div className="middle-card">
             <h3> Skills </h3>
             <p>
-              <div className="span">Core Programming Languages</div> Java, Python{" "}
+              <div className="span">Core Programming Languages</div> Python, Java{" "}
               <br></br>
               <br></br>
-              <div className="span">Web Technologies</div> HTML, CSS, JS, React
-              JS <br></br>
+              <div className="span">Web Technologies</div> HTML, CSS, JavaScript, React.js, Node.js<br></br>
               <br></br>
-              <div className="span">Database</div> SQL
+              <div className="span">Database</div> SQL, MySql, NoSql, MongoDB, Firebase
             </p>
           </div>
 

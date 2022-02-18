@@ -33,12 +33,9 @@ export default function Projects() {
                 Portfolio Management Website <br></br>
                 April, 2021 - July, 2021{" "}
               </div>{" "}
-              <br></br>Website created using React JS, HTML, CSS, and Firebase
-              that enables users to keep track of their investments in the
-              Indian Equity Markets<br></br>
-              <br></br>A modern UI created using react JS and Material UI that
-              provides users with a smooth browsing experience and enables them
-              to view analytics regarding their portfolio’s performance
+              <br></br>•	Built webpage using React.js, HTML, CSS, and Firebase enables users to keep track of investments in the Indian Equity Markets<br></br>
+              •	Developed a Modern UI (User Interface) created using react JS and Material UI provides users with a smooth browsing experience and enables them to view analytics regarding portfolio's performance<br></br>
+              •	Conceptualized a NoSQL Firebase database to capture portfolio information of multiple users<br></br>
             </p>
           </div>
 

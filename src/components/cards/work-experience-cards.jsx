@@ -44,8 +44,11 @@ export default function WorkExperience() {
                 May, 2018 - August, 2018{" "}
               </div>
               <br></br>
-              Designed and implemented the UI of booking engine for the Diu Tent
-              City website using technologies HTML, CSS, JavaScript, MySQL, PHP
+              •	Designed and devised robust system to allow users to make bookings at tents at Diu tent city resort through website using HTML, CSS, JavaScript, Node.js, React.js, Firebase<br></br>
+              •	Utilizing Web Development technologies HTML, CSS, React.js to design smooth responsive UI allowing users to make bookings<br></br>
+              •	Managed tent availabilities utilizing NoSQL Database Firebase; Node.js to establish connection between client and server<br></br>
+              •	Developed modern UI for administrators enabling them to view available tents and handle walk-ins<br></br>
+
             </p>
           </div>
 

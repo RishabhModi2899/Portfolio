@@ -35,7 +35,7 @@ export default function Education() {
               Northeastern University, College of Engineering, Boston, MA{" "}
               <br></br>
               Expected graduation- May, 2023 <br></br>
-              GPA- 3.408/4
+              GPA- 3.41/4
               <br></br>
               <br></br>
               <div className="span">
