@@ -34,9 +34,9 @@ export default function WorkExperience() {
                 January, 2020 - May, 2020,{" "}
               </div>
               <br></br>
-              Created a chatbot engine for the company website using NLP and
-              spacy capable of understanding & answering various types of
-              company specific questions. <br></br>
+              •	Devised a python engine to be integrated with company chatbot to improve user experience<br></br>
+              •	Constructed using spacy python NLP (Natural Language Processing) enhancing chatbot's ability to better understand user queries and generate company specific responses<br></br>
+              •	Organized and managed project workflow using git and GitHub<br></br>
               <br></br>
               <div className="span">
                 Internship Trainee <br></br>

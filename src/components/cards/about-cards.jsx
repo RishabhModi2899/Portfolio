@@ -33,7 +33,7 @@ export default function About() {
               Master of Science from Northeastern University, Boston, in the field of
               Software Engineering Systems. <br></br>
               <br></br>I have had experience working with Natural Language
-              Processing using libraries like spacy & NLTK and in Web Development Technologies like HTML, CSS, JS
+              Processing using libraries like spacy & NLTK and in Web Development Technologies like HTML, CSS, JavaScript, React.js, Node.js, MySQL, MongoDB
               which is where my interest lies.
             </p>
           </div>
