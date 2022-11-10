@@ -6,8 +6,6 @@ body {
   /* -moz-osx-font-smoothing: grayscale; */
   background: url("../public/bg-img.jpg")
     no-repeat center center fixed;
-    filter: blur(8px);
-      -webkit-filter: blur(8px);
   height: 100vh;
   margin: 0;
   overflow-x: hidden;
