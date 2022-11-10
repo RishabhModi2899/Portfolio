@@ -51,14 +51,14 @@ export default function WorkExperience() {
                 May, 2018 - August, 2018{" "}
               </div>
               <br></br>• Increased tent bookings for Diu tent city event by 24%
-              by implementing a booking engine using React.js, Node.js and MySQL
-              <br></br>• Ensured a smooth booking experience by developing a UI
-              for administrators and users hence easing the process of handling
-              walk-in booking requests along with online bookings<br></br> •
-              Managed tent availabilities & stored user information by adopting
-              a SQL database, MySQL & Node.js to establish reliable connections
-              between middleware, backend, and frontend <br></br>• Organized and
-              managed project workflow using git and GitHub<br></br>
+              by implementing a booking engine using React.js, Node.js and MySQL<br></br>
+              • Ensured a smooth booking experience by developing a UI for
+              administrators and users hence easing the process of handling
+              walk-in booking requests along with online bookings<br></> • Managed tent
+              availabilities & stored user information by adopting a SQL
+              database, MySQL & Node.js to establish reliable connections
+              between middleware, backend, and frontend • Organized and managed
+              project workflow using git and GitHub<br></br>
             </p>
           </div>
 
